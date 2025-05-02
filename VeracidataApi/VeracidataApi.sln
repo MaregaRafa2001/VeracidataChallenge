@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeracidataApi.API", "VeracidataApi.API\VeracidataApi.API.csproj", "{9E769313-4D6F-4046-9E2C-1FBF680287C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeracidataApi.Application", "VeracidataApi.Application\VeracidataApi.Application.csproj", "{0A819203-A460-47EF-BD0B-5177B6E48430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeracidataApi.Infrastructure", "VeracidataApi.Infrastructure\VeracidataApi.Infrastructure.csproj", "{79C0ABD9-8161-45A8-BDB5-8952174E4B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeracidataApi.Tests", "VeracidataApi.Tests\VeracidataApi.Tests.csproj", "{CC5FEB9E-8FCE-4AB6-AC55-2792BA7FB8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeracidataApi.Domain", "VeracidataApi.Domain\VeracidataApi.Domain.csproj", "{A216140E-E8AA-4962-8760-60A954A16085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E769313-4D6F-4046-9E2C-1FBF680287C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E769313-4D6F-4046-9E2C-1FBF680287C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E769313-4D6F-4046-9E2C-1FBF680287C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E769313-4D6F-4046-9E2C-1FBF680287C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A819203-A460-47EF-BD0B-5177B6E48430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A819203-A460-47EF-BD0B-5177B6E48430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A819203-A460-47EF-BD0B-5177B6E48430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A819203-A460-47EF-BD0B-5177B6E48430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C0ABD9-8161-45A8-BDB5-8952174E4B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C0ABD9-8161-45A8-BDB5-8952174E4B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C0ABD9-8161-45A8-BDB5-8952174E4B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C0ABD9-8161-45A8-BDB5-8952174E4B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5FEB9E-8FCE-4AB6-AC55-2792BA7FB8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5FEB9E-8FCE-4AB6-AC55-2792BA7FB8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5FEB9E-8FCE-4AB6-AC55-2792BA7FB8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5FEB9E-8FCE-4AB6-AC55-2792BA7FB8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A216140E-E8AA-4962-8760-60A954A16085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A216140E-E8AA-4962-8760-60A954A16085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A216140E-E8AA-4962-8760-60A954A16085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A216140E-E8AA-4962-8760-60A954A16085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BA81B5F-FDCA-4453-B561-4E1C26B5B904}
+	EndGlobalSection
+EndGlobal

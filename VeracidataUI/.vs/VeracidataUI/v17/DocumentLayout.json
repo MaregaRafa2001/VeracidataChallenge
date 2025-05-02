@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\VeracidataUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\authService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\services\\authService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\authInterceptor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\services\\authInterceptor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\app.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\app.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\services.module.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\services\\services.module.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\controllers.module.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\controllers\\controllers.module.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\views\\shared\\navigation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\views\\shared\\navigation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\loginController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\controllers\\loginController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\views\\customers\\edit.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\views\\customers\\edit.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\views\\customers\\create.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\views\\customers\\create.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\views\\customers\\list.html||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\views\\customers\\list.html||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\views\\auth\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\views\\auth\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\views\\auth\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\views\\auth\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\styles\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\styles\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\customerService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\services\\customerService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\customerEditController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\controllers\\customerEditController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\customerCreateController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\controllers\\customerCreateController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\customersController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\controllers\\customersController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\registerController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\scripts\\controllers\\registerController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "authInterceptor.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\authInterceptor.js",
+              "RelativeDocumentMoniker": "app\\scripts\\services\\authInterceptor.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\authInterceptor.js",
+              "RelativeToolTip": "app\\scripts\\services\\authInterceptor.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T04:42:17.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "services.module.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\services.module.js",
+              "RelativeDocumentMoniker": "app\\scripts\\services\\services.module.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\services.module.js",
+              "RelativeToolTip": "app\\scripts\\services\\services.module.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T04:36:43.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "controllers.module.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\controllers.module.js",
+              "RelativeDocumentMoniker": "app\\scripts\\controllers\\controllers.module.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\controllers.module.js",
+              "RelativeToolTip": "app\\scripts\\controllers\\controllers.module.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T04:36:34.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-02T03:59:41.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "navigation.html",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\views\\shared\\navigation.html",
+              "RelativeDocumentMoniker": "app\\views\\shared\\navigation.html",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\views\\shared\\navigation.html",
+              "RelativeToolTip": "app\\views\\shared\\navigation.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-02T03:59:23.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.config.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\app.config.js",
+              "RelativeDocumentMoniker": "app\\scripts\\app.config.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\app.config.js",
+              "RelativeToolTip": "app\\scripts\\app.config.js",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T03:58:19.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\app.js",
+              "RelativeDocumentMoniker": "app\\scripts\\app.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\app.js",
+              "RelativeToolTip": "app\\scripts\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T03:58:11.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "authService.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\authService.js",
+              "RelativeDocumentMoniker": "app\\scripts\\services\\authService.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\authService.js",
+              "RelativeToolTip": "app\\scripts\\services\\authService.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T03:57:32.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "edit.html",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\views\\customers\\edit.html",
+              "RelativeDocumentMoniker": "app\\views\\customers\\edit.html",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\views\\customers\\edit.html",
+              "RelativeToolTip": "app\\views\\customers\\edit.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-02T03:59:14.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "create.html",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\views\\customers\\create.html",
+              "RelativeDocumentMoniker": "app\\views\\customers\\create.html",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\views\\customers\\create.html",
+              "RelativeToolTip": "app\\views\\customers\\create.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-02T03:59:08.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "list.html",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\views\\customers\\list.html",
+              "RelativeDocumentMoniker": "app\\views\\customers\\list.html",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\views\\customers\\list.html",
+              "RelativeToolTip": "app\\views\\customers\\list.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-02T03:58:58.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\views\\auth\\register.html",
+              "RelativeDocumentMoniker": "app\\views\\auth\\register.html",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\views\\auth\\register.html",
+              "RelativeToolTip": "app\\views\\auth\\register.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-02T03:58:52.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "loginController.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\loginController.js",
+              "RelativeDocumentMoniker": "app\\scripts\\controllers\\loginController.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\loginController.js",
+              "RelativeToolTip": "app\\scripts\\controllers\\loginController.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T03:56:51.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\views\\auth\\login.html",
+              "RelativeDocumentMoniker": "app\\views\\auth\\login.html",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\views\\auth\\login.html",
+              "RelativeToolTip": "app\\views\\auth\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-02T03:58:46.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\styles\\main.css",
+              "RelativeDocumentMoniker": "app\\styles\\main.css",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\styles\\main.css",
+              "RelativeToolTip": "app\\styles\\main.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-02T03:58:29.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "customerService.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\customerService.js",
+              "RelativeDocumentMoniker": "app\\scripts\\services\\customerService.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\services\\customerService.js",
+              "RelativeToolTip": "app\\scripts\\services\\customerService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T03:57:38.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "customerEditController.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\customerEditController.js",
+              "RelativeDocumentMoniker": "app\\scripts\\controllers\\customerEditController.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\customerEditController.js",
+              "RelativeToolTip": "app\\scripts\\controllers\\customerEditController.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T03:57:21.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "customerCreateController.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\customerCreateController.js",
+              "RelativeDocumentMoniker": "app\\scripts\\controllers\\customerCreateController.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\customerCreateController.js",
+              "RelativeToolTip": "app\\scripts\\controllers\\customerCreateController.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T03:57:15.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "customersController.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\customersController.js",
+              "RelativeDocumentMoniker": "app\\scripts\\controllers\\customersController.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\customersController.js",
+              "RelativeToolTip": "app\\scripts\\controllers\\customersController.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T03:57:08.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "registerController.js",
+              "DocumentMoniker": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\registerController.js",
+              "RelativeDocumentMoniker": "app\\scripts\\controllers\\registerController.js",
+              "ToolTip": "C:\\Projetos\\VeracidataUI\\app\\scripts\\controllers\\registerController.js",
+              "RelativeToolTip": "app\\scripts\\controllers\\registerController.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T03:56:59.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

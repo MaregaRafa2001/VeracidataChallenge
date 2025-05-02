@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html ng-app="customerApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Customer Management</title>
+
+    <!-- CSS -->
+    <link href="libs/bootstrap-5.0.2-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="app/styles/main.css" rel="stylesheet">
+</head>
+<body>
+    <div ng-include="'app/views/shared/navigation.html'"></div>
+
+    <div class="container">
+        <div ng-view></div>
+    </div>
+
+    <!-- JS Core -->
+    <script src="libs/angular/angular.min.js"></script>
+    <script src="libs/angular/angular-route.js"></script>
+
+    <!-- Módulos Base -->
+    <script src="app/scripts/app.js"></script>
+    <script src="app/scripts/services/services.module.js"></script>
+    <script src="app/scripts/services/customerService.js"></script>
+
+    <script src="app/scripts/controllers/controllers.module.js"></script>
+    <script src="app/scripts/controllers/customersController.js"></script>
+
+    <!-- Services -->
+    <script src="app/scripts/services/authService.js"></script>
+    <script src="app/scripts/services/authInterceptor.js"></script>
+
+    <!-- Controllers -->
+    <script src="app/scripts/controllers/loginController.js"></script>
+    <script src="app/scripts/controllers/registerController.js"></script>
+    <script src="app/scripts/controllers/registerController.js"></script>
+    <script src="app/scripts/controllers/customersController.js"></script>
+    <script src="app/scripts/controllers/customerCreateController.js"></script>
+    <script src="app/scripts/controllers/customerEditController.js"></script>
+
+    <!-- Config -->
+    <script src="app/scripts/app.config.js"></script>
+
+    
+    <script src="libs/bootstrap-5.0.2-dist/js/bootstrap.min.js"></script>
+</body>
+</html>

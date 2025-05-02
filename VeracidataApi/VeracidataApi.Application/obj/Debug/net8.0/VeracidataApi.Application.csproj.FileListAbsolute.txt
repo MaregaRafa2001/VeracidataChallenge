@@ -1,0 +1,15 @@
+C:\Projetos\VeracidataApi\VeracidataApi.Application\bin\Debug\net8.0\VeracidataApi.Application.deps.json
+C:\Projetos\VeracidataApi\VeracidataApi.Application\bin\Debug\net8.0\VeracidataApi.Application.dll
+C:\Projetos\VeracidataApi\VeracidataApi.Application\bin\Debug\net8.0\VeracidataApi.Application.pdb
+C:\Projetos\VeracidataApi\VeracidataApi.Application\bin\Debug\net8.0\VeracidataApi.Domain.dll
+C:\Projetos\VeracidataApi\VeracidataApi.Application\bin\Debug\net8.0\VeracidataApi.Domain.pdb
+C:\Projetos\VeracidataApi\VeracidataApi.Application\obj\Debug\net8.0\VeracidataApi.Application.csproj.AssemblyReference.cache
+C:\Projetos\VeracidataApi\VeracidataApi.Application\obj\Debug\net8.0\VeracidataApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\VeracidataApi\VeracidataApi.Application\obj\Debug\net8.0\VeracidataApi.Application.AssemblyInfoInputs.cache
+C:\Projetos\VeracidataApi\VeracidataApi.Application\obj\Debug\net8.0\VeracidataApi.Application.AssemblyInfo.cs
+C:\Projetos\VeracidataApi\VeracidataApi.Application\obj\Debug\net8.0\VeracidataApi.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\VeracidataApi\VeracidataApi.Application\obj\Debug\net8.0\Veracida.3F7661D0.Up2Date
+C:\Projetos\VeracidataApi\VeracidataApi.Application\obj\Debug\net8.0\VeracidataApi.Application.dll
+C:\Projetos\VeracidataApi\VeracidataApi.Application\obj\Debug\net8.0\refint\VeracidataApi.Application.dll
+C:\Projetos\VeracidataApi\VeracidataApi.Application\obj\Debug\net8.0\VeracidataApi.Application.pdb
+C:\Projetos\VeracidataApi\VeracidataApi.Application\obj\Debug\net8.0\ref\VeracidataApi.Application.dll

@@ -1,0 +1,11 @@
+C:\Projetos\VeracidataApi\VeracidataApi.Domain\bin\Debug\net8.0\VeracidataApi.Domain.deps.json
+C:\Projetos\VeracidataApi\VeracidataApi.Domain\bin\Debug\net8.0\VeracidataApi.Domain.dll
+C:\Projetos\VeracidataApi\VeracidataApi.Domain\bin\Debug\net8.0\VeracidataApi.Domain.pdb
+C:\Projetos\VeracidataApi\VeracidataApi.Domain\obj\Debug\net8.0\VeracidataApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\VeracidataApi\VeracidataApi.Domain\obj\Debug\net8.0\VeracidataApi.Domain.AssemblyInfoInputs.cache
+C:\Projetos\VeracidataApi\VeracidataApi.Domain\obj\Debug\net8.0\VeracidataApi.Domain.AssemblyInfo.cs
+C:\Projetos\VeracidataApi\VeracidataApi.Domain\obj\Debug\net8.0\VeracidataApi.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\VeracidataApi\VeracidataApi.Domain\obj\Debug\net8.0\VeracidataApi.Domain.dll
+C:\Projetos\VeracidataApi\VeracidataApi.Domain\obj\Debug\net8.0\refint\VeracidataApi.Domain.dll
+C:\Projetos\VeracidataApi\VeracidataApi.Domain\obj\Debug\net8.0\VeracidataApi.Domain.pdb
+C:\Projetos\VeracidataApi\VeracidataApi.Domain\obj\Debug\net8.0\ref\VeracidataApi.Domain.dll

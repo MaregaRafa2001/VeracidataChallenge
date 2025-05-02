@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "27QZ5Ku7ANtwKBybw01Naj4vIX8c1LMUE1SbB2dMQmw=",
+  "Source": "VeracidataApi.API",
+  "BasePath": "_content/VeracidataApi.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

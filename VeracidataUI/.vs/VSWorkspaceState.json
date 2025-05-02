@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\scripts",
+    "\\app\\scripts\\services",
+    "\\app\\styles",
+    "\\app\\views\\auth",
+    "\\app\\views\\customers",
+    "\\app\\views\\shared",
+    "\\libs\\bootstrap"
+  ],
+  "SelectedNode": "\\app\\scripts\\services\\authService.js",
+  "PreviewInSolutionExplorer": false
+}
