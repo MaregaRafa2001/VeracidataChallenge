@@ -33,14 +33,18 @@ Este projeto consiste em uma API RESTful desenvolvida em C# ASP.NET Core 8.0 e u
 
 ## 🛠 Como Usar
 API (Endpoints Principais)
-Método	Endpoint		Descrição			Autenticação Requerida
-POST	/api/auth/login		Login (gera token JWT)		Não
-POST	/api/auth/register	Registrar novo usuário		Não
-GET	/api/customers		Listar todos os clientes	Sim
-POST	/api/customers		Criar novo cliente		Sim
-PUT	/api/customers/{id}	Atualizar cliente		Sim
-DELETE	/api/customers/{id}	Excluir cliente (lógico)	Sim
 
+## 🛠 Como Usar
+**API (Endpoints Principais)**
+
+| Método | Endpoint             | Descrição                 | Autenticação Requerida |
+|--------|----------------------|---------------------------|-------------------------|
+| POST   | /api/auth/login      | Login (gera token JWT)    | Não                     |
+| POST   | /api/auth/register   | Registrar novo usuário    | Não                     |
+| GET    | /api/customers       | Listar todos os clientes  | Sim                     |
+| POST   | /api/customers       | Criar novo cliente        | Sim                     |
+| PUT    | /api/customers/{id}  | Atualizar cliente         | Sim                     |
+| DELETE | /api/customers/{id}  | Excluir cliente (lógico)  | Sim                     |
 
 ### Exemplo de Requisição (Login):
 bash
@@ -49,31 +53,31 @@ curl -X POST "https://localhost:7205/api/auth/login" \
 -d '{"email": "root@root.com", "password": "1234567890"}'
 
 ### Frontend
-Login: Acesse http://localhost:8080/login e use as credenciais:
-Email: root@root.com
-Senha: 1234567890
+- **Login**: Acesse http://localhost:8080/login e use as credenciais:
+- **Email**: root@root.com
+- **Senha**: root@root.com
 
 ### Funcionalidades:
-Listagem de Clientes: Visualize todos os clientes cadastrados.
-Criação/Edição: Formulários com validação para adicionar ou editar clientes.
-Exclusão Lógica: Clientes marcados como Inactive não aparecem na listagem.
+- **Listagem de Clientes**: Visualize todos os clientes cadastrados.
+- **Criação/Edição**: Formulários com validação para adicionar ou editar clientes.
+- **Exclusão Lógica**: Clientes marcados como *Inactive* não aparecem na listagem.
 
 ## 🔧 Decisões Técnicas
 
 ### Backend (C# ASP.NET Core 8.0)
-Arquitetura:
-DDD (Domain-Driven Design): Separação em camadas (Domain, Application, Infrastructure).
-SOLID e Clean Code: Services com responsabilidades únicas e injeção de dependência.
-Autenticação: JWT (JSON Web Tokens) para segurança dos endpoints.
+- Arquitetura:
+- DDD (Domain-Driven Design): Separação em camadas (Domain, Application, Infrastructure).
+- SOLID e Clean Code: Services com responsabilidades únicas e injeção de dependência.
+- Autenticação: JWT (JSON Web Tokens) para segurança dos endpoints.
 
 ### Frontend (AngularJS)
-Simplicidade: Uso de controllers e services para separação de lógica.
-Roteamento: angular-route para navegação entre páginas.
-Autenticação: Token JWT armazenado no localStorage.
+- Simplicidade: Uso de controllers e services para separação de lógica.
+- Roteamento: angular-route para navegação entre páginas.
+- Autenticação: Token JWT armazenado no localStorage.
 
 ### Banco de Dados (SQL Server)
-Modelagem: Tabela Customers com campos como Email (único) e Active (controle lógico).
-Performance: Índices em campos de busca frequente (e.g., Email).
+- Modelagem: Tabela Customers com campos como Email (único) e Active (controle lógico).
+- Performance: Índices em campos de busca frequente (e.g., Email).
 
 ## 📁 Estrutura do Projeto
 backend/
