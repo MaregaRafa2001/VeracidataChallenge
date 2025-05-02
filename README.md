@@ -80,13 +80,20 @@ curl -X POST "https://localhost:7205/api/auth/login" \
 - Performance: Índices em campos de busca frequente (e.g., Email).
 
 ## 📁 Estrutura do Projeto
-backend/
+**backend**/
+
 ├── VeracidataApi.Domain/     		# Entidades, interfaces e regras de negócio
+
 ├── VeracidataApi.Application 		# Casos de uso, serviços e DTOs
+
 ├── VeracidataApi.Infrastructure 	# EF Core, repositórios, autenticação
+
 └── VeracidataApi.API/        		# Controllers, middlewares e configurações
 
-frontend/
+**frontend**/
+
 ├── app/                      		# Controllers, services e views
+
 ├── assets/                   		# Imagens e estilos
+
 └── index.html                		# Página principal
