@@ -8,8 +8,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeracidataApi.Application",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeracidataApi.Infrastructure", "VeracidataApi.Infrastructure\VeracidataApi.Infrastructure.csproj", "{79C0ABD9-8161-45A8-BDB5-8952174E4B1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeracidataApi.Tests", "VeracidataApi.Tests\VeracidataApi.Tests.csproj", "{CC5FEB9E-8FCE-4AB6-AC55-2792BA7FB8C5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeracidataApi.Domain", "VeracidataApi.Domain\VeracidataApi.Domain.csproj", "{A216140E-E8AA-4962-8760-60A954A16085}"
 EndProject
 Global
@@ -30,10 +28,6 @@ Global
 		{79C0ABD9-8161-45A8-BDB5-8952174E4B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79C0ABD9-8161-45A8-BDB5-8952174E4B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79C0ABD9-8161-45A8-BDB5-8952174E4B1C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CC5FEB9E-8FCE-4AB6-AC55-2792BA7FB8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC5FEB9E-8FCE-4AB6-AC55-2792BA7FB8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC5FEB9E-8FCE-4AB6-AC55-2792BA7FB8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC5FEB9E-8FCE-4AB6-AC55-2792BA7FB8C5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A216140E-E8AA-4962-8760-60A954A16085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A216140E-E8AA-4962-8760-60A954A16085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A216140E-E8AA-4962-8760-60A954A16085}.Release|Any CPU.ActiveCfg = Release|Any CPU
