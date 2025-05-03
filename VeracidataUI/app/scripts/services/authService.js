@@ -23,8 +23,8 @@
                 return $window.localStorage.getItem(TOKEN_KEY);
             },
             isAuthenticated: function() {
-                return !!this.getToken();
-            },
+                return !!this.getToken?.();
+            },            
             register: function(userData) {
                 return $http.post(
                     API_CONFIG.BASE_URL + API_CONFIG.AUTH_ENDPOINT + '/register', 

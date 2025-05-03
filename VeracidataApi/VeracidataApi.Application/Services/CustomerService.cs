@@ -47,7 +47,7 @@ namespace VeracidataApi.Application.Services
         public async Task<IEnumerable<CustomerListResponse>> GetAllAsync()
         {
             var list = await _customerRepository.GetAllAsync();
-            return list.Select(c => new CustomerListResponse(c.Id, c.Name, c.Email, c.Active));
+            return list.Select(c => new CustomerListResponse(c.Id, c.Name, c.Email, c.Active, c.Phone));
         }
 
         public async Task<int> UpdateAsync(CustomerUpdateRequest req)
@@ -60,7 +60,7 @@ namespace VeracidataApi.Application.Services
                 Phone = req.Phone,
                 BirthDate = req.BirthDate,
                 Email = req.Email,
-                Password = PasswordHelper.Hash(req.Password),
+                Password = "",
                 Active = req.Active
             };
             return await _customerRepository.UpdateAsync(entity);

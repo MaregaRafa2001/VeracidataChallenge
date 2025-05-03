@@ -4,6 +4,7 @@
         long Id,
         string Name,
         string Email,
-        bool Active
+        bool Active,
+        string Phone
     );
 }

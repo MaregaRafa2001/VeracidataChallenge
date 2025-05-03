@@ -44,18 +44,18 @@ API (Endpoints Principais)
 | GET    | /api/customers       | Listar todos os clientes  | Sim                     |
 | POST   | /api/customers       | Criar novo cliente        | Sim                     |
 | PUT    | /api/customers/{id}  | Atualizar cliente         | Sim                     |
-| DELETE | /api/customers/{id}  | Excluir cliente (lógico)  | Sim                     |
+| DELETE | /api/customers/{id}  | Excluir cliente			| Sim                     |
 
 ### Exemplo de Requisição (Login):
 bash
 curl -X POST "https://localhost:7205/api/auth/login" \
 -H "Content-Type: application/json" \
--d '{"email": "root@root.com", "password": "1234567890"}'
+-d '{"email": "root@root.com", "password": "12345"}'
 
 ### Frontend
 - **Login**: Acesse http://localhost:8080/login e use as credenciais:
 - **Email**: root@root.com
-- **Senha**: root@root.com
+- **Senha**: 12345
 
 ### Funcionalidades:
 - **Listagem de Clientes**: Visualize todos os clientes cadastrados.

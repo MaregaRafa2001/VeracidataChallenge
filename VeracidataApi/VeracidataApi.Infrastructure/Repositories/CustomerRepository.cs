@@ -50,7 +50,6 @@ namespace VeracidataApi.Infrastructure.Repositories
                     Phone = @Phone,
                     BirthDate = @BirthDate,
                     Email = @Email,
-                    Password = @Password,
                     Active = @Active
                 WHERE Id = @Id";
 

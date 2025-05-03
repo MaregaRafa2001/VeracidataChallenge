@@ -86,5 +86,5 @@ GO
 
 -- Insert Admin User (root)
 INSERT INTO Customers (Name, NickName, Phone, BirthDate, Email, Password, Active)
-VALUES ('root', 'root', '1234567890', '1900-01-01', 'root@root.com', '$2a$11$OyNs1gaDm0vethvyyqU4s.6JwtYOvIwDd0Hg5P2dXfoRwZhpktjmW', 1);
+VALUES ('root', 'root', '1234567890', '1900-01-01', 'root@root.com', '$2a$11$mkxrU8UkjANGULHFwrR9VeUDaw6OCgN70qiW/ncGt50K.DqMIrHXi', 1);
 GO

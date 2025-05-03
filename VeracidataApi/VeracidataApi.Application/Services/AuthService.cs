@@ -40,7 +40,7 @@ namespace VeracidataApi.Application.Services
         public async Task<AuthResponse?> LoginAsync(LoginRequest req)
         {
             var customer = await _customerRepository.GetByEmailAsync(req.Email);
-            if (customer == null || PasswordHelper.Verify(req.Password, customer.Password))
+            if (customer == null || !PasswordHelper.Verify(req.Password, customer.Password))
                 return null;
 
             var token = JwtTokenHelper.GenerateJwtToken(customer, _jwtSettings);

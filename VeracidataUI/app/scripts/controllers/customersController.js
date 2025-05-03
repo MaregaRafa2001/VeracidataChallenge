@@ -18,7 +18,7 @@
         };
 
         vm.deleteCustomer = function (id) {
-            if (confirm("Tem certeza que deseja excluir o cliente '" + id + "'?")) {
+            if (confirm("Are you sure you want to delete customer '" + id + "'?")) {
                 CustomerService.delete(id).then(function () {
                     vm.loadCustomers();
                 });

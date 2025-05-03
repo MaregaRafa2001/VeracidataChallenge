@@ -11,18 +11,20 @@
     function CustomerEditController($routeParams, $location, CustomerService) {
         var vm = this;
         vm.customer = {};
+        vm.customerId = $routeParams.id;
         vm.isLoading = true;
         vm.updateCustomer = updateCustomer;
 
-        // Carrega o cliente para edição
         loadCustomer();
 
         function loadCustomer() {
-            var customerId = $routeParams.id;
-            
-            CustomerService.getById(customerId)
+
+            CustomerService.getById(vm.customerId)
                 .then(function(response) {
                     vm.customer = response.data;
+                    if (vm.customer.birthDate) {
+                        vm.customer.birthDate = new Date(vm.customer.birthDate);
+                    }
                     vm.isLoading = false;
                 })
                 .catch(function(error) {
@@ -32,12 +34,12 @@
         }
 
         function updateCustomer() {
-            if (vm.editForm.$invalid) {
+            if (vm.customerForm.$invalid) {
                 alert('Please fill all required fields');
                 return;
             }
 
-            CustomerService.updateCustomer(vm.customer)
+            CustomerService.update(vm.customerId, vm.customer)
                 .then(function() {
                     $location.path('/customers');
                 })
@@ -46,5 +48,9 @@
                     alert('Error updating customer: ' + (error.data?.message || 'Server error'));
                 });
         }
+
+        vm.cancel = function() {
+            $location.path('/customers');
+        };
     }
 })();

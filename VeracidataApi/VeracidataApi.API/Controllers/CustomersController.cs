@@ -37,6 +37,7 @@ namespace VeracidataApi.API.Controllers
 
         // GET api/customers/{id}
         [HttpGet("{id:long}")]
+        [Authorize]
         public async Task<ActionResult<CustomerResponse>> GetById(long id)
         {
             var customer = await _service.GetByIdAsync(id);

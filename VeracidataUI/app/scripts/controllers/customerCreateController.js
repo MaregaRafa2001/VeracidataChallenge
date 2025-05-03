@@ -12,14 +12,24 @@ angular.module('customerApp.controllers')
         };
 
         vm.createCustomer = function () {
+
+            if (vm.customerForm.$invalid) {
+                alert('Please fill all required fields');
+                return;
+            }
+
             CustomerService.create(vm.customer)
                 .then(function (response) {
                     // Redirect to customer list after creation
                     $location.path('/customers');
                 })
                 .catch(function (error) {
-                    alert('Failed to create customer: ' + error.message);
+                    alert('Unable to create customer. \nA user with this name already exists. Please choose a different name and try again.');
                 });
                 
+        };
+
+        vm.cancel = function() {
+            $location.path('/customers');
         };
     }]);
